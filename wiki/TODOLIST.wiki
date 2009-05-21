@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Lista delle cose da fare (in continua evoluzione)
 
 = TODO-LIST  =
 
