@@ -4,7 +4,7 @@
 
 [SVNInfos Informazioni su SVN]
 
-# SCELTA DEL PARSER DA UTILIZZARE
+ # SCELTA DEL PARSER DA UTILIZZARE
 
 === Test case selezionati ===
 
