@@ -25,7 +25,7 @@ Alcune informazioni sull'utilizzo di svn...
  * Selezionare SVN e poi SVN repositories
  * Premere il tasto destro Nella scheda "SVN Repositories" e selezionare "New repository location"
  * In questo prompt bisogna inserire l'url del repository; inserire https://incoolc.googlecode.com/svn/trunk
- * Inserire il proprio nome utente e la [one-time password http://code.google.com/hosting/settings]
+ * Inserire il proprio nome utente e la [password http://code.google.com/hosting/settings]
 
 === Scaricamento di files dal repository ===
 
