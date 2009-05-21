@@ -1,0 +1,41 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Salve a tutti, belli, brutti e polli.
+Alcune informazioni sull'utilizzo di svn...
+
+
+= Details =
+
+== Installazione di Subclipse ==
+  
+ * Lanciare Eclipse (non dalla finestra, sebbene talvolta sembrerebbe l'unica soluzione).
+ * Selezionare Help -> Software updates
+ * Premere il simpatico bottone "Add Site"
+ * All'elegante prompt che ci verrà presentato dal nostro IDE di merda, inserire all'interno del campo "location" l'indirizzo http://subclipse.tigris.org/update_1.6.x
+ * Nella scheda "available software" selezionare il sito testè aggiunto e cliccare su install
+ * Attendere il completamento dell'installazione
+
+== Utilizzo di Subclipse ==
+
+=== Aggiunta del Repository ===
+
+ * All'interno del nostro meraviglioso e oscuro IDE, selezionare Window -> Show view -> Other
+ * Selezionare SVN e poi SVN repositories
+ * Premere il tasto destro Nella scheda "SVN Repositories" e selezionare "New repository location"
+ * In questo prompt bisogna inserire l'url del repository; inserire https://incoolc.googlecode.com/svn/trunk
+ * Inserire il proprio nome utente e la one-time password che vi invierò per email
+
+=== Scaricamento di files dal repository ===
+
+ * Dalla scheda SVN repositories, selezionare il repository precedentemente aggiunto.
+ * Premere il tasto destro sulla cartella che interessa (Il progetto è suddiviso in 3 cartelle: lexer, parser, seman contenenti rispettivamente l'analizzatore lessicale, sintattico e semantico) e cliccare su "Import"
+ * Selezionare la cartella in cui si vogliono scaricare i file e se possibile aggiungere i commenti (non è obbligatorio ma indicare il motivo per cui si è effettuata una certa azione non sarebbe una cattiva idea) e premere "OK"
+ * Attendere lo scaricamento dei file
+
+=== Caricamento di files sul repository ===
+
+ * Dalla scheda SVN repositories, selezionare il repository precedentemente aggiunto.
+ * Premere il tasto destro sulla cartella che interessa (Il progetto è suddiviso in 3 cartelle: lexer, parser, seman contenenti rispettivamente l'analizzatore lessicale, sintattico e semantico) e cliccare su "Export"
+ * Selezionare la cartella in cui si vogliono scaricare i file e premere "OK".
