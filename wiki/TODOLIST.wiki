@@ -16,5 +16,6 @@
  * io.cl
  * primes.cl
  * sort_list.cl
+ * palindromes.cl
 
 Si accettano suggerimenti.
