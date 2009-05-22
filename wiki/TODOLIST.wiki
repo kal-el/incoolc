@@ -4,18 +4,12 @@
 
 [SVNInfos Informazioni su SVN]
 
- # SCELTA DEL PARSER DA UTILIZZARE
+== 1. SCELTA DEL PARSER DA UTILIZZARE ==
 
-=== Test case selezionati ===
+*CLOSED*.
 
- * arith.cl
- * atoı.cl
- * book_list.cl
- * graph.cl
- * hairyscary.cl
- * io.cl
- * primes.cl
- * sort_list.cl
- * palindromes.cl
+== 2. ANALISI SEMANTICA ==
 
-Si accettano suggerimenti.
+ * Gestione dello scoping (vinc.demaio)
+ * Gestione ereditarietà (previn)
+ * Type checking (giocarmine)
